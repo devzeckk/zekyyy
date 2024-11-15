@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/zzeckkk)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekyyy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devzeckk&layout=compact)
 
 ### Tecnologias que eu uso
 
